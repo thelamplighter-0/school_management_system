@@ -1,4 +1,0 @@
-# .gitattributes
-* text=auto eol=lf
-*.gleam text eol=lf
-*.toml text eol=lf
